@@ -1,0 +1,22 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "typescripting",
+  "main": "index.js",
+  "scripts": {
+    "test": "types"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gamebit88/typescript.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "gamebit88",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gamebit88/typescript/issues"
+  },
+  "homepage": "https://github.com/gamebit88/typescript#readme"
+}
